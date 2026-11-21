@@ -1,4 +1,4 @@
-# OPPE-2 — Heart Disease Prediction
+#  Heart Disease Prediction
 
 ## Deliverable 1 — Private Git Repository
 
