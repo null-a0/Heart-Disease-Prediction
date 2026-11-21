@@ -150,3 +150,6 @@ The analysis indicates that the generated prediction data has substantial distri
 The drift analysis implementation and results are stored in:
 - `drift_analysis.py`
 - `data/drift_analysis.csv`
+
+
+YT link: https://youtu.be/CGt1O5DkjBg?si=zyn33fIPGrYhgY1G
